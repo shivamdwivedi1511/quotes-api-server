@@ -1,5 +1,8 @@
 # Quotes API Server
 
+![image](https://github.com/shivamdwivedi1511/quotes-api-server/assets/39148476/d813fff8-66cc-4a9d-99cc-931ca3cf3471)
+
+
 Quotes API Server is a simple Express.js application that serves random quotes.
 
 ## Getting Started
